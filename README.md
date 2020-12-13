@@ -6,7 +6,7 @@
 <br/>
 <br/>
 ### External Links: 
-
+</br>
 [FastQC](https://github.com/s-andrews/FastQC/) 
 <br/>
 [FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
