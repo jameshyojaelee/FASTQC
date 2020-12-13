@@ -1,7 +1,7 @@
 # FASTQC
 
-## BENG183 Final Paper
-## By Nina Yang, Matthew Lutz-Paap, James Lee
+BENG183 Final Paper
+By Nina Yang, Matthew Lutz-Paap, James Lee
 
 <br/>
 <br/>
