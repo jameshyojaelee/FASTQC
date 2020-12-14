@@ -12,7 +12,7 @@
 [FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
 <br/>
 <br/>
-
+ 
 
 ### 1. Basic Statistics
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
