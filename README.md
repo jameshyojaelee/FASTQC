@@ -67,6 +67,6 @@
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/11.%20Adapter%20Content.JPG)
 <br/>
 <br/>
-
+ 
 
 
