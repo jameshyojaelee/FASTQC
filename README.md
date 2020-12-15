@@ -28,13 +28,14 @@
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/3.%20Per%20tile%20sequence%20quality.JPG)
 <br/>
 This module only shows up on fastqc reports with data from Illumina sequencing. This figure maps physical locations on the flow cell used for sequencing onto a graph and analyzes the average performance of each tile in comparison to the overall average score of all reads. Tiles that are marked with cooler colors reported average or above average scores, while warmer colors indicate that a given tile has underperformed, reporting below average scores. This test can provide some insight into whether dubious results elsewhere in the report can be attributed to an error in sequencing itself or some other part of the pipeline.
-
+</br>
 <br/>
+
 ### 4. Per sequence quality score
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/4.%20Per%20sequence%20quality%20scores.JPG)
 <br/>
 This graph plots the number of appearances of each mean quality score among all sequences in the report. While a small percentage of reads are expected to have a low mean score, high quality data generally has a high concentration of high mean scores, manifesting in this graph as a fairly narrow peak over the high end of the x-axis.
-<br/>
+</br>
 
 ### 5. Per base sequence content
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/5.%20Per%20base%20sequence%20content.JPG)
