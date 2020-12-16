@@ -16,12 +16,11 @@
 
 ### 1. Basic Statistics
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
+</br>
 <br/>
-<br/>
-
 ### 2. Per base sequence quality
-![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG  =100x)
-<br/>
+![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG =100x)
+</br>
 <br/>
 
 ### 3. Per tile sequence quality 
