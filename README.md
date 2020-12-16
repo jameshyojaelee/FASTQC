@@ -99,12 +99,16 @@ This module indicates if the sequences will need to be trimmed for adapters befo
 <br/>
  <br/>
 
-### External Links: 
 
-[FastQC](https://github.com/s-andrews/FastQC/) 
+
+### Reference 
+
+[FastQC Github Page](https://github.com/s-andrews/FastQC/) 
 <br/>
 [FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
 <br/>
 <br/>
+
+
 
 
