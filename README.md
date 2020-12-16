@@ -5,16 +5,16 @@
 <br/>
 </br>
 
-### External Links: 
-
-[FastQC](https://github.com/s-andrews/FastQC/) 
-<br/>
-[FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
-<br/>
-<br/>
-RNA-Seq Analysis Pipeline
+### RNA-Seq Analysis Pipeline
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/RNA-seq%20pipeline.JPG)
 </br>
+Before any RNA-seq analysis, we need to have a good quality sequence data in order to carry out any further analysis. 
+<br/>
+The most common sequence data files are FASTQ, BAM or SAM files. </br>
+FASTQ file is a text-based file that stores both biological sequences and their quality scores. <br>
+FASTQC is the software that checks the quality of these sequence files. <br>
+FASTQC takes in data from FastQ files and provide a quick overview to tell you which areas of the sequence may have problems. 
+
 
 <br/>
 ### 1. Basic Statistics
@@ -93,6 +93,14 @@ A warning is issued if any sequence is present in more than 5% of all reads. A f
 This module indicates if the sequences will need to be trimmed for adapters before proceeding with any downstream analysis. 
 
 <br/>
- 
+ <br/>
+
+### External Links: 
+
+[FastQC](https://github.com/s-andrews/FastQC/) 
+<br/>
+[FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
+<br/>
+<br/>
 
 
