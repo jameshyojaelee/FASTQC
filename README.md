@@ -24,9 +24,10 @@ Above is the first summary table you get from the FASTQC report. You can read th
 <br/>
 
 ### 2. Per base sequence quality
-<br/>
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG)
 </br>
+Next, Per base sequence quality shows a graphical representation of the quality scores provided in the fastq file. The good quality scores stay in the green area. there may be a warning or failure sign if the median score drops to the yellow or red zone. But it’s normal to see lower qualities at the beginning and end of this plot with modern sequencing techniques.
+
 <br/>
 
 ### 3. Per tile sequence quality 
