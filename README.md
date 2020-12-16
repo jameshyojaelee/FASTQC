@@ -1,9 +1,7 @@
 # FASTQC
 
-### *BENG183 Final Paper by Nina Yang, Matthew Lutz-Paap, James Lee*
+### BENG183 Final Paper by *Nina Yang, Matthew Lutz-Paap, James Lee*
 
-
-<br/>
 
 ### RNA-Seq Analysis Pipeline
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/RNA-seq%20pipeline.JPG)
@@ -36,6 +34,14 @@ conda install samtools=1.9
 conda install htseq=0.11.2
 conda install hisat2=2.1.0
 conda install star=2.7.2b
+```
+
+Once these are intalled, you can use "fastqc" command to run it on your fastq files. Use "fastqc -h" to get the help page. </br>
+Example below: 
+
+```
+fastqc 2cells_1.fastq  2cells_2.fastq  6h_1.fastq  6h_2.fastq 
+
 ```
 
 ### 1. Basic Statistics 
@@ -131,6 +137,7 @@ This module indicates if the sequences will need to be trimmed for adapters befo
 <br/>
 [FastQC Manual by Babraham Institute](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/)
 <br/>
+[BENG183 Github Page](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial1_Preparation.md)
 
 
 
