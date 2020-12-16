@@ -36,13 +36,21 @@ conda install hisat2=2.1.0
 conda install star=2.7.2b
 ```
 
-Once these are intalled, you can use "fastqc" command to run it on your fastq files. Use "fastqc -h" to get the help page. </br>
+Once these are intalled, you can use "fastqc" command to run it on your fastq files. You will need your own fastq files. Both NCBI and EBI provide already-analyzed raw sequence data. 
+</br>
+> NCBI-SRA(https://www.ncbi.nlm.nih.gov/sra) - Main respositoy of raw sqeeucene data (fastq format).  
+<br/>
+> EBI-ENA(https://www.ebi.ac.uk/ena/browser/home) - similar database but on EBI
+</br>
+Use "fastqc -h" to get the help page. 
+<br/>
 Example below: 
 
 ```
 fastqc 2cells_1.fastq  2cells_2.fastq  6h_1.fastq  6h_2.fastq 
-
 ```
+
+Once FASTQC is done, it will generate an HTML file for each fastq file you type in. 
 
 ### 1. Basic Statistics 
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
