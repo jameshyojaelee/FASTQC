@@ -13,18 +13,18 @@ The most common sequence data files are FASTQ, BAM or SAM files. </br>
 FASTQ file is a text-based file that stores both biological sequences and their quality scores. 
 FASTQC is the software that checks the quality of these sequence files. <br/>
 FASTQC takes in data from FastQ files and provide a quick overview to tell you which areas of the sequence may have problems. 
-</br>
-
 <br/>
+
+</br>
 ### 1. Basic Statistics </br>
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
-<br>
+<br/>
 Above is the first summary table you get from the FASTQC report. You can read the basic information about the fastq sequence data, including the encoding type, total sequence numbers, sequence flagged as poor quality, sequence length and GC content. 
 <br/>
-
+</br>
 
 ### 2. Per base sequence quality
-</br>
+<br/>
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG)
 <br/>
 </br>
