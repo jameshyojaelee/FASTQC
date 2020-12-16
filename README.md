@@ -107,6 +107,7 @@ This module indicates if the sequences will need to be trimmed for adapters befo
 <br/>
 [FastQC Manual](https://dnacore.missouri.edu/PDF/FastQC_Manual.pdf)
 <br/>
+[FastQC Manual by Babraham Institute](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/)
 <br/>
 
 
