@@ -2,8 +2,8 @@
 
 ### *BENG183 Final Paper by Nina Yang, Matthew Lutz-Paap, James Lee*
 
+
 <br/>
-</br>
 
 ### RNA-Seq Analysis Pipeline
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/RNA-seq%20pipeline.JPG)
@@ -20,13 +20,14 @@ FASTQC takes in data from FastQ files and provide a quick overview to tell you w
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
 <br>
 Above is the first summary table you get from the FASTQC report. You can read the basic information about the fastq sequence data, including the encoding type, total sequence numbers, sequence flagged as poor quality, sequence length and GC content. 
-<br>
+<br/>
 
-<br>
+
 ### 2. Per base sequence quality
+</br>
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG)
-<br>
-<br>
+<br/>
+</br>
 
 ### 3. Per tile sequence quality 
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/3.%20Per%20tile%20sequence%20quality.JPG)
