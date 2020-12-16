@@ -9,6 +9,9 @@
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/RNA-seq%20pipeline.JPG)
 </br>
 Before any RNA-seq analysis, we need to have a good quality sequence data in order to carry out any further analysis. 
+<br/>
+<br>
+![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/Capture.JPG)
 The most common sequence data files are FASTQ, BAM or SAM files. </br>
 FASTQ file is a text-based file that stores both biological sequences and their quality scores. 
 FASTQC is the software that checks the quality of these sequence files. <br/>
