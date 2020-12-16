@@ -11,14 +11,32 @@
 Before any RNA-seq analysis, we need to have a good quality sequence data in order to carry out any further analysis. Above is the RNA-Seq Analysis pipeline that shows where the quality control of sequence data is needed. 
 <br/>
 <br>
+
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/Capture.JPG)
 </br>
 The most common sequence data files are FASTQ, BAM or SAM files.
 FASTQ file is a text-based file that stores both biological sequences and their quality scores. 
-FASTQC is the software that checks the quality of these sequence files. <br/>
-FASTQC takes in data from FastQ files and provide a quick overview to tell you which areas of the sequence may have problems. 
+<br/>
+**FASTQC** is the software that checks the quality of these sequence files by running several tests. It takes in data from FastQ files and provide a quick overview to tell you which areas of the sequence may have problems. Each test will be flagged with either a pass, warning or fail sign depending on the results. 
+</br>
+The report is generated as a HTML file.
 <br/>
 
+## How to start FASTQC
+In order to use FASTQC, you will first need to have the UNIX environment on your device. </br>
+For Windows users, you will need to have WSL(Windows Subsystem for Linux) and *Ubuntu*. Check their [website](https://docs.microsoft.com/en-us/windows/wsl/install-win10) for further details. <br/>
+Once you have the Unix environment, set up a Conda virtual environment for RNAseq Analysis. (Install Miniconda and Bioconda) </br>
+You will also need to install the following packages: <br/>
+
+```
+conda install fastp=0.20.0 
+conda install fastqc=0.11.8
+conda install subread=1.6.4
+conda install samtools=1.9
+conda install htseq=0.11.2
+conda install hisat2=2.1.0
+conda install star=2.7.2b
+```
 
 ### 1. Basic Statistics 
 ![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/1.%20Basic%20Statistics.JPG)
