@@ -1,6 +1,5 @@
 # FASTQC
-
-### BENG183 Final Paper by *Nina Yang, Matthew Lutz-Paap, James Lee*
+### *by James Lee, Nina Yang, Matthew Lutz-Paap*
 
 
 ### RNA-Seq Analysis Pipeline
