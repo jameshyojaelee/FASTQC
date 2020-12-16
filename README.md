@@ -40,7 +40,6 @@ Once these are intalled, you can use "fastqc" command to run it on your fastq fi
 <br>
 - [NCBI-SRA](https://www.ncbi.nlm.nih.gov/sra) - Main respositoy of raw sqeeucene data (fastq format)   
 
-<br>
 
 - [EBI-ENA](https://www.ebi.ac.uk/ena/browser/home) - similar database but on EBI  
 
