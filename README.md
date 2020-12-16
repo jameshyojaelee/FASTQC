@@ -20,7 +20,7 @@
 <br/>
 
 ### 2. Per base sequence quality
-![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG)
+![alt text](https://github.com/jameshyojaelee/FASTQC/blob/main/2.%20Per%20base%20sequence%20quality.JPG =100x20)
 <br/>
 <br/>
 
